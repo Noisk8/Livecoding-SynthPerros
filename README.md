@@ -8,8 +8,7 @@ El livecoding es una práctica artística y musical en la que se crea y se repro
 
 El livecoding se utiliza principalmente por músicos y artistas que quieren explorar nuevas formas de creación y reproducción de música, y que buscan una mayor interacción y comunicación con su público. En una sesión de livecoding, el músico o el artista utiliza un lenguaje de programación para crear patrones de sonido y ritmo, y luego los reproduce en tiempo real mientras el público observa y escucha el proceso de creación.
 
-El livecoding se ha vuelto popular en la comunidad de música electrónica y experimental, y se ha utilizado en diferentes
-
+El livecoding se ha vuelto popular en la comunidad de música electrónica y experimental, y se ha utilizado en diferentes contextos, como conciertos, festivales, conferencias y talleres. El livecoding también se ha relacionado con el movimiento de código abierto y la cultura hackers, y ha sido objeto de estudio en campos como la música, la informática y las artes.
 
 ## [Toplap](https://toplap.org/)
 
@@ -30,6 +29,30 @@ FoxDot se utiliza principalmente por músicos y artistas que quieren crear músi
 
 FoxDot es un proyecto de código abierto, lo que significa que está disponible gratuitamente y que cualquier persona puede contribuir a su desarrollo y mejora. FoxDot se puede utilizar en diferentes plataformas, como Windows, macOS y Linux, y se puede integrar con otros lenguajes y herramientas para crear música de manera más compleja y sofisticada.
 
+
+Ejemplo de código en FoxDot
+
+
+        Clock.bpm = 120
+
+        d1 >> play("x-o-")
+
+        d2 >> play("--(--[--])--")
+
+        d3 >> play("  o ")
+
+        d4 >> play("[--]")
+
+        d5 >> play("  * ")
+
+        d6 >> play("  o ")
+
+        d7 >> play("  * ")
+
+
+En este código se establece una velocidad de 120 pulsos por minuto (bpm) con la instrucción Clock.bpm = 120. Luego, se utilizan las instrucciones d1 >> play("x-o-"), d2 >> play("--(--[--])--"), etc. para crear diferentes patrones de sonido y ritmo con los símbolos x, o, -, (, [, ], *, etc. Cada una de estas instrucciones se asigna a un canal de sonido diferente (d1, d2, d3, etc.), y se pueden reproducir y modificar de manera independiente.
+
+Al ejecutar este código en FoxDot, se creará una pieza musical que combina diferentes patrones de sonido y ritmo, y que se podrá escuchar y modificar en tiempo real. Es un ejemplo sencillo, pero te puede servir para empezar a explorar las posibilidades de FoxDot y de la música generativa.
 
 
 
