@@ -21,6 +21,12 @@ En resumen, Toplap es una comunidad que promueve y fomenta el livecoding como fo
 
 ## [Livecoding tools](https://github.com/toplap/awesome-livecoding)
 
+### + razones 
+
+El livecoding puede ser una forma muy útil para las personas que quieren hacer música sin tener que gastar mucho dinero en equipo costoso. El livecoding implica escribir y modificar el código de un programa de síntesis en tiempo real, lo que permite a los usuarios crear y modificar sonidos utilizando solo una computadora y un software de síntesis. 
+
+Esto significa que las personas que quieren hacer música con livecoding solo necesitan una computadora y un software de síntesis, lo que puede ser más accesible y asequible que comprar un sintetizador costoso. Además, el livecoding también permite a los usuarios experimentar y explorar de forma más libre y creativa con sus sonidos, lo que puede ser muy divertido y enriquecedor para aquellos que deseen hacer música de una manera no convencional.
+
 ## [FoxDot](https://foxdot.org/)
 
 FoxDot es un lenguaje de programación y un entorno de desarrollo para crear y reproducir música de manera interactiva. FoxDot se basa en el lenguaje de programación Python, y se utiliza para crear patrones de sonido y ritmo que se pueden reproducir en tiempo real. FoxDot se caracteriza por su facilidad de uso y por su enfoque en la experimentación y la improvisación musical.
